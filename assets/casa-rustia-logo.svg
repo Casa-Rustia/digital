@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
+  <title id="title">Casa Rustia Creative Digital Services logo</title>
+  <desc id="desc">Elegant CR monogram above the Casa Rustia wordmark.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7cf7a"/>
+      <stop offset="0.45" stop-color="#dca84b"/>
+      <stop offset="1" stop-color="#9b6939"/>
+    </linearGradient>
+    <linearGradient id="brown" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#6b422c"/>
+      <stop offset="1" stop-color="#24140e"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="360" rx="0" fill="#fff8ef"/>
+  <g transform="translate(0 8)">
+    <text x="340" y="135" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="138" font-weight="700" fill="url(#gold)" letter-spacing="-20">C</text>
+    <text x="405" y="165" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="150" font-weight="700" fill="url(#brown)" letter-spacing="-12">R</text>
+    <path d="M325 94 L332 115 L354 123 L332 131 L325 152 L318 131 L296 123 L318 115 Z" fill="#dca84b" opacity="0.98"/>
+    <text x="380" y="244" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="56" fill="#2b1b14" letter-spacing="18">CASA RUSTIA</text>
+    <line x1="178" y1="288" x2="268" y2="288" stroke="#dca84b" stroke-width="2" opacity="0.65"/>
+    <text x="380" y="296" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#a67338" letter-spacing="9">CREATIVE DIGITAL SERVICES</text>
+    <line x1="492" y1="288" x2="582" y2="288" stroke="#dca84b" stroke-width="2" opacity="0.65"/>
+  </g>
+</svg>

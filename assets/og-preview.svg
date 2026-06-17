@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff8ef"/>
+      <stop offset="0.55" stop-color="#f5e6d7"/>
+      <stop offset="1" stop-color="#d9a449"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="30%" cy="20%" r="70%">
+      <stop offset="0" stop-color="#f4c76a" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#f4c76a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g transform="translate(260 150)">
+    <text x="96" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-weight="700" fill="#d9a449" letter-spacing="-16">C</text>
+    <text x="145" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="122" font-weight="700" fill="#2b1b14" letter-spacing="-12">R</text>
+    <path d="M88 68 L95 84 L111 90 L95 96 L88 112 L82 96 L66 90 L82 84 Z" fill="#d9a449"/>
+    <text x="350" y="104" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#2b1b14" letter-spacing="14">CASA RUSTIA</text>
+    <text x="350" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#8f5d2f" letter-spacing="11">CREATIVE DIGITAL SERVICES</text>
+  </g>
+  <text x="600" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#2b1b14">Websites, systems, automation and digital support for growing businesses.</text>
+</svg>
